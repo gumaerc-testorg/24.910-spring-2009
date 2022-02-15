@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 9118d15a-9b7d-f393-c938-eca68af052c5
 ---
@@ -156,7 +159,7 @@ Stalnaker, Robert. "Pragmatic Presuppositions." In _Semantics and Philosophy_. E
 
 ### Assignment
 
-\- Extend the definition of common belief \[from (2) in the [lecture notes]({{< baseurl >}}/pages/lecture-notes) from Ses #9\] to any group of n individuals x1 … xn.
+\- Extend the definition of common belief \[from (2) in the [lecture notes]({{< baseurl >}}/pages/lecture-notes) from Ses #9\] to any group of n individuals x{{< sub "1" >}} … x{{< sub "n" >}}.
 
 \- Write a few sentences explaining what is meant by the 'projection problem.'
 
