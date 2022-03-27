@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9118d15a-9b7d-f393-c938-eca68af052c5
 resourcetype: Document
 title: 'Assignment for Week 4: Solutions'
 uid: 658951ca-19af-1f8b-e1fd-9543f58a9ad6
