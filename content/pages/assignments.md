@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
+parent_uid: null
 title: Assignments
 uid: 9118d15a-9b7d-f393-c938-eca68af052c5
 ---
@@ -106,7 +107,7 @@ Make a list of concepts, terms, and formalism that you do not understand. We wil
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_910s09_sol_assn02))
+({{< resource_link b183e196-935d-0fb8-a7a5-83ae00925aa3 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -115,10 +116,10 @@ Make a list of concepts, terms, and formalism that you do not understand. We wil
 3
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_910s09_assn03))
+({{< resource_link d9c3eec4-6ede-e01c-b55f-a29e94327c93 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_910s09_sol_assn03))
+({{< resource_link 658951ca-19af-1f8b-e1fd-9543f58a9ad6 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -159,7 +160,7 @@ Stalnaker, Robert. "Pragmatic Presuppositions." In _Semantics and Philosophy_. E
 
 ### Assignment
 
-\- Extend the definition of common belief \[from (2) in the [lecture notes]({{< baseurl >}}/pages/lecture-notes) from Ses #9\] to any group of n individuals x{{< sub "1" >}} … x{{< sub "n" >}}.
+\- Extend the definition of common belief \[from (2) in the {{< resource_link e3aff43c-3ccd-fa61-68cd-8a901e094528 "lecture notes" >}} from Ses #9\] to any group of n individuals x{{< sub "1" >}} … x{{< sub "n" >}}.
 
 \- Write a few sentences explaining what is meant by the 'projection problem.'
 
