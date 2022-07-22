@@ -5,6 +5,7 @@ file: /courses/24-910-topics-in-linguistic-theory-propositional-attitudes-spring
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Assignment for Week 3: Solutions'
 uid: b183e196-935d-0fb8-a7a5-83ae00925aa3
 ---
 Solutions to a homework assignment on intensional Semantics.
-
