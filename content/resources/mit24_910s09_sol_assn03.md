@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to a homework assignment on the semantics of attitude predicates.
-file: /courses/24-910-topics-in-linguistic-theory-propositional-attitudes-spring-2009/658951ca19af1f8be1fd9543f58a9ad6_MIT24_910s09_sol_assn03.pdf
+file: /ol-ocw-studio-app/courses/24-910-topics-in-linguistic-theory-propositional-attitudes-spring-2009/658951ca19af1f8be1fd9543f58a9ad6_MIT24_910s09_sol_assn03.pdf
 file_size: 46115
 file_type: application/pdf
 learning_resource_types:
