@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to a homework assignment on intensional Semantics.
-file: /courses/24-910-topics-in-linguistic-theory-propositional-attitudes-spring-2009/b183e196935d0fb8a7a583ae00925aa3_MIT24_910s09_sol_assn02.pdf
+file: /ol-ocw-studio-app/courses/24-910-topics-in-linguistic-theory-propositional-attitudes-spring-2009/b183e196935d0fb8a7a583ae00925aa3_MIT24_910s09_sol_assn02.pdf
 file_size: 58986
 file_type: application/pdf
 learning_resource_types:
