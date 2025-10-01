@@ -12,7 +12,7 @@ uid: 9118d15a-9b7d-f393-c938-eca68af052c5
 Papers
 ------
 
-Papers 1 and 2 should be 5-8 pages each of double-spaced text on different topics related to the course material. Paper 3 is a substantial revision of either Paper 1 or Paper 2 and should be 7-10 pages long. For general guidelines about writing philosophy papers, please refer to [Guidelines on Writing a Philosophy Paper](http://www.jimpryor.net/teaching/guidelines/writing.html).
+Papers 1 and 2 should be 5-8 pages each of double-spaced text on different topics related to the course material. Paper 3 is a substantial revision of either Paper 1 or Paper 2 and should be 7-10 pages long. For general guidelines about writing philosophy papers, please refer to {{% resource_link "209aa8e9-01aa-4ac7-a547-134b6a81dcbf" "Guidelines on Writing a Philosophy Paper" %}}.
 
 Presentations
 -------------
@@ -49,7 +49,7 @@ SOLUTIONS
 
 ### Reading
 
-von Fintel, Kai, and Irene Heim. Lecture Notes on Intensional Semantics. Chapters 1 and 2. ([PDF](http://mit.edu/fintel/fintel-heim-intensional.pdf))
+von Fintel, Kai, and Irene Heim. Lecture Notes on Intensional Semantics. Chapters 1 and 2. ({{% resource_link "4146f68e-dc63-4fa6-9746-26a120bdbd43" "PDF" %}})
 
 ### Things to do as you read
 
@@ -85,7 +85,7 @@ This assignment will not be graded for content/correctness at this point, but yo
 
 ### Required Reading
 
-von Fintel, Kai, and Irene Heim. Lecture Notes on Intensional Semantics. Chapters 1 and 2. ([PDF](http://mit.edu/fintel/fintel-heim-intensional.pdf))
+von Fintel, Kai, and Irene Heim. Lecture Notes on Intensional Semantics. Chapters 1 and 2. ({{% resource_link "4146f68e-dc63-4fa6-9746-26a120bdbd43" "PDF" %}})
 
 ### Recommended Reading
 
@@ -185,7 +185,7 @@ Stalnaker, Robert. "Pragmatic Presuppositions." In _Semantics and Philosophy_. E
 
 Stalnaker, Robert. "Pragmatic Presuppositions." In _Semantics and Philosophy_. Edited by Milton Munitz and Peter Under. New York, NY: New York University Press, 1974. ISBN: 9780814753668. Reprinted in _Context and Content: Essays on Intentionality in Speech and Thought_. New York, NY: Oxford University Press, 1999, pp. 47-62. ISBN: 9780198237075.
 
-Simons, Mandy. "[Observations on Embedding Verbs, Evidentiality, and Presupposition](http://dx.doi.org/10.1016/j.lingua.2006.05.006)." _Lingua_ 117, no. 6 (June 2007): 1034-1056.
+Simons, Mandy. "{{% resource_link "92a4785e-d46d-4701-a827-98478170a397" "Observations on Embedding Verbs, Evidentiality, and Presupposition" %}}." _Lingua_ 117, no. 6 (June 2007): 1034-1056.
 
 ### Assignment
 
